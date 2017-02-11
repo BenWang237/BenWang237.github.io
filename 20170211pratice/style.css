@@ -1,0 +1,16 @@
+[class^="col-"]{
+    border:1px solid;
+}
+[class^="col-"] .img {
+    
+}
+.gravatar {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.gravatar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
